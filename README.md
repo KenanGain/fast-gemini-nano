@@ -32,3 +32,5 @@ For production applications, consider updating the ESLint configuration to inclu
         <li>Optionally add <code>plugin:@typescript-eslint/stylistic-type-checked</code></li>
         <li>Install <a href="https://github.com/jsx-eslint/eslint-plugin-react">eslint-plugin-react</a> and add <code>plugin:react/recommended</code> & <code>plugin:react/jsx-runtime</code> to the extends list</li>
     </ul>
+
+![Alt](https://repobeats.axiom.co/api/embed/edd4faa78a279579633f3d5ddd38b428b64db136.svg "Repobeats analytics image")
