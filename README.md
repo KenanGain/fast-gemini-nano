@@ -35,4 +35,4 @@ For production applications, consider updating the ESLint configuration to inclu
 
 ### Repo activity
 
-![Alt](https://repobeats.axiom.co/api/embed/edd4faa78a279579633f3d5ddd38b428b64db136.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/f23f890c259a60abbf9d48939049089f55b71392.svg "Repobeats analytics image")
