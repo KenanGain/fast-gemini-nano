@@ -36,3 +36,6 @@ For production applications, consider updating the ESLint configuration to inclu
 ### Repo activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/f23f890c259a60abbf9d48939049089f55b71392.svg "Repobeats analytics image")
+
+[![Repography](https://reporoster.com/stars/dark/KenanGain/fast-gemini-nano)](https://github.com/KenanGain/fast-gemini-nano)
+
